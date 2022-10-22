@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ColorMyViews</string>
+    <string name="textview">TextView</string>
+    <string name="how_to_play">How to Play?</string>
+    <string name="play_info">Tap the buttons to change colours!</string>
+    <string name="hologreen_light">Hologreen Light</string>
+    <string name="button">Button</string>
+</resources>
